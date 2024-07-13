@@ -1,0 +1,40 @@
+{
+  "games": [
+    {
+      "id": 1,
+      "nome": "Mario Classic",
+      "preco": "60,00",
+      "imagem": "https://down-br.img.susercontent.com/file/078408821cd90749aa1377aae35238d4"
+    },
+    {
+      "id": 2,
+      "nome": "Game Classic",
+      "preco": "60,00",
+      "imagem": "https://images.tcdn.com.br/img/img_prod/686482/mini_game_retro_com_400_jogos_antigos_e_1_controle_lps_501_3403_1_53456dd48336383c0f9e3a0cdcd17dcd.jpg"
+    },
+    {
+      "id": 6,
+      "nome": "Game Boy Classic",
+      "preco": "60,00",
+      "imagem": "https://down-br.img.susercontent.com/file/3ef82b03b10b1613a2d9d4c59bc72d30"
+    },
+    {
+      "nome": "Controle",
+      "preco": "55,00",
+      "imagem": "https://img.freepik.com/fotos-gratis/equipamento-de-videogame-futurista-iluminado-em-ia-generativa-de-boate_188544-32105.jpg?t=st=1717859052~exp=1717862652~hmac=460aea9767e5ea7307b180794bcbda8dd9ebd1e9ce3634176739fd82aab7af16&w=826",
+      "id": 7
+    },
+    {
+      "nome": "Mário",
+      "preco": "23,00",
+      "imagem": "https://super.abril.com.br/wp-content/uploads/2018/07/5746038b0e21634575066b09mario1.jpeg",
+      "id": 8
+    },
+    {
+      "nome": "Arcane",
+      "preco": "100,00",
+      "imagem": "https://static1.purebreak.com.br/articles/2/10/19/22/@/420408-estes-sao-cinco-motivos-para-voce-assist-950x0-1.jpg",
+      "id": 9
+    }
+  ]
+}
